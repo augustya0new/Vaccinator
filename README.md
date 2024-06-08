@@ -50,7 +50,7 @@ Laptops, Desktops and Tablet PCs
 
 ## Getting Started
 ```sh
-  git clone https://github.com/soumyag123/Vaccinater.git
+  git clone https://github.com/augustya0new/Vaccinater.git
 ```
 ```sh
   cd Vaccinater
@@ -93,7 +93,7 @@ Your app is now running on http://localhost:8000
 
 ## Need Help?
 
-Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/soumya-agarwal20/)
+Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/kumaraugustya/)
 
 ---------
 
